@@ -1,8 +1,3 @@
-Preprocessing steps:
-* PCA for dimensionnality reduction and orthogonal features 
+# Random notes I took for myself
 
-
-Methods :
-* Gaussian processes 
-    use of kernels and Multivariate law assumptions. Kernel does not have to be Gaussian. Use of basic operations to build appropriate kernels.
-
+Not made to be shared but glad if it helps anyone.
